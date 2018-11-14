@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContentCallLog</string>
+    <string name="hello" />
+    <string name="hello_world" />
+</resources>
